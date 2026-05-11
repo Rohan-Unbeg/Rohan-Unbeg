@@ -20,5 +20,6 @@ Right now, I’m working on Oppia’s translation infrastructure as part of **GS
 - GCP  
 
 ### Find me
-LinkedIn: linkedin.com/in/rohanunbeg  
-Email: rohanunbeg0918@gmail.com
+- LinkedIn: www.linkedin.com/in/rohanunbeg  
+- X: www.x.com/rohanunbeg  
+- Email: rohanunbeg0918@gmail.com
