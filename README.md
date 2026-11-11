@@ -1,25 +1,17 @@
-# Rohan Unbeg
+# Hey, I'm Rohan 👋
 
-B.Tech CSE @ Vishwakarma University, Pune  
-**GSoC 2026 Contributor @ Oppia Foundation**
+CS undergrad in Pune who likes working inside big, real codebases more than starting new ones.
 
-Over the last few years, I’ve gone from building random web apps, getting stuck in tutorial hell, experimenting with hackathons, and shipping small projects to contributing to a large open source codebase through Oppia.
+**Right now:** I write coding tasks built to challenge frontier AI coding agents. Each one is a real feature or fix in a large open source Python or Go project, with an offline Docker environment and hidden tests. The bar is hard: out of three frontier models, only one may ever solve it, and at most a quarter of the time. Most of the work is finding a task that deep and making sure no agent can pass by gaming the tests.
 
-Right now, I’m working on Oppia’s translation infrastructure as part of **GSoC 2026**.
+**Before that:** [Google Summer of Code 2026](https://github.com/oppia/oppia/issues/24933) at [Oppia](https://github.com/oppia/oppia). I extended the translation system beyond lessons to skills, concept cards, and lesson titles and tags, and made lessons searchable in the learner's language. [35 merged PRs](https://github.com/oppia/oppia/pulls?q=is%3Apr+author%3ARohan-Unbeg+is%3Amerged) so far, and I still review PRs there.
 
-### Things I’m proud of
-- 🏆 **GSoC 2026** @ Oppia Foundation *(ongoing)*  
-- 🥉 3rd place at M-Code Hackathon (120+ participants)  
-- 🎥 Built **ReelText** — paste an Instagram reel link to get transcripts, summaries, and AI chat over reel content  
-- 🏫 Built fee management software currently being used by a local educational institute  
+### Tools I use a lot
 
-### Currently learning
-- Python backend development  
-- Distributed systems  
-- Apache Beam  
-- GCP  
+![Python, Go, TypeScript, Angular, React, Next.js, Docker, GCP, Firebase, Linux, Bash](https://skillicons.dev/icons?i=python,go,ts,angular,react,nextjs,docker,gcp,firebase,linux,bash&perline=11)
+
+### Side project
+- [**Beat the Sugar Spike**](https://github.com/Rohan-Unbeg/beat-the-sugar-spike) - voice meal logger built with Next.js, Firebase, Gemini and Groq; 3rd place at M-Code Hackathon
 
 ### Find me
-- LinkedIn: www.linkedin.com/in/rohanunbeg  
-- X: www.x.com/rohanunbeg  
-- Email: rohanunbeg0918@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rohanunbeg) · [X](https://x.com/rohanunbeg) · rohanunbeg0918@gmail.com
